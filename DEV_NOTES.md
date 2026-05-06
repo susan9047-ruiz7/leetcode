@@ -14,3 +14,8 @@ Personal development log — notes, findings, and ongoing work.
 - Cross-checked behaviour against spec
 - Tested build on clean environment
 - Removed unused variable declarations
+
+## 2026-05-06
+- Reorganised test fixtures
+- Resolved deprecation warnings
+- Updated dependencies to latest stable versions
